@@ -10,4 +10,4 @@ Desafio das 52 Semanas Para Poupar Dinheiro
 - :exclamation: Correção de bug
 - :checkered_flag: Release
 
-[Confira a página](https://tiagobarbosa88.github.io/Desafio-52---Semanas-meu-/)
+[Confira a página](https://tiagobarbosa88.github.io/Desafio-52---Bootstrap/)
