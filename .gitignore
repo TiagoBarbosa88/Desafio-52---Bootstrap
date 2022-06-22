@@ -1,2 +1,7 @@
 /node_modules
+!bootstrap.min.css
+!bootstrap-icons.css
+!bootstrap.bundle.min.js
+!site.webmanifest
+
 
